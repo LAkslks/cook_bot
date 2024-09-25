@@ -5,7 +5,7 @@ from aiogram.types import Message
 from googletrans import Translator
 import aiohttp
 
-TOKEN = '7053645873:AAGKn6GFRBexTF4AZpnoG4Y0-z4SZT6nJhM'
+TOKEN = ''
 bot = Bot(TOKEN)
 dp = Dispatcher()
 
